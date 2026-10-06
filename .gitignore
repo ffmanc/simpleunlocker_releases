@@ -1,0 +1,9 @@
+# Distribution checkout: explicit allowlist only.
+*
+!.gitignore
+!README.md
+!SECURITY.md
+!.github/
+!.github/CODEOWNERS
+!channel/
+!channel/stable.json
